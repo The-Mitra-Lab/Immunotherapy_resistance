@@ -1,2 +1,2 @@
 # Immunotherapy_resistance
-Code used in Sample et al.
+Code used to generate figures in Sample et al.
